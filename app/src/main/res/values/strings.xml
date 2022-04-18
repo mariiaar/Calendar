@@ -2,4 +2,5 @@
     <string name="app_name">Calendar</string>
     <string name="tallenna">Tallenna</string>
     <string name="tapahtuma">Tapahtuma</string>
+    <string name="arvostelu">Arvostelu</string>
 </resources>
